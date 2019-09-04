@@ -1,4 +1,9 @@
-❲[English](README.md "Read this document in English.")❘**日本語**❳
+<details>
+<summary>Languages</summary>
+  <a href="README.md" title="Read this document in English.">English</a>
+  ❘
+  <b>日本語</b>
+</details>
 
 # Vim-LeXML―Vim向けのLeXML束縛
 ## LeXMLについて
