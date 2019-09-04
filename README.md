@@ -1,4 +1,9 @@
-❲**English**❘[日本語](README-ja.md "この文書を日本語で読む。")❳
+<details>
+<summary>Languages</summary>
+  <b>English</b>
+  ❘
+  <a href="README-ja.md" title="この文書を日本語で読む。">日本語</a>
+</details>
 
 # Vim-LeXML―LeXML binding for Vim
 ## About LeXML
