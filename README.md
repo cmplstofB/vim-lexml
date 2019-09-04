@@ -1,2 +1,1 @@
-# vim-lexml
-Vim plugin for LeXML
+# Vim-LeXML―Vim plugin for LeXML
