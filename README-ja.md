@@ -1,4 +1,4 @@
-❲[English](README.md, "Read this document in English.")❘**日本語**❳
+❲[English](README.md "Read this document in English.")❘**日本語**❳
 
 # Vim-LeXML―Vim向けのLeXML束縛
 ## LeXMLについて
