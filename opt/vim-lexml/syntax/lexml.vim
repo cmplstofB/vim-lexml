@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:    LeXML
 " Maintainer:  cmplstofB <https://github.com/cmplstofB/>
-" Version:     0.1.0
+" Version:     0.1.1
 " Last Change: 2019-09-04 | Modify for public.
 "              2019-06-09 | Initial version.
 " References:
