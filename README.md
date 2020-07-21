@@ -18,8 +18,10 @@
 ```
 2. Choose one of the values of `packpath` as the location where plugin is installed.
 (e.g. `~/.vim`)
-3. Make directory `$PACKPATH/pack/vim-lexml/start/`, where `$PACKPATH` is which you choosed.
+3. Make directory `$PACKPATH/pack/` if it doesn’t exist, where `$PACKPATH` is which you choosed.
 4. Clone this git repository to that path.
 ```console
+$ cd ~/.vim/
+$ mkdir pack && cd pack
 $ git clone 'https://github.com/cmplstofB/vim-lexml.git'
 ```
